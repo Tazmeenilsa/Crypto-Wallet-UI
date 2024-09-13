@@ -1,5 +1,5 @@
 import 'package:crypto_wallet/Navigation/Navigation_Menu.dart';
-import 'package:crypto_wallet/Setting.dart';
+import 'package:crypto_wallet/setting.dart';
 import 'package:crypto_wallet/home.dart';
 import 'package:flutter/material.dart';
 

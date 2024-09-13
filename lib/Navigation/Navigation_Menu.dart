@@ -1,4 +1,4 @@
-import 'package:crypto_wallet/Setting.dart';
+import 'package:crypto_wallet/setting.dart';
 import 'package:crypto_wallet/home.dart';
 import 'package:flutter/material.dart';
 
@@ -28,6 +28,7 @@ class _NavigationMenuState extends State<NavigationMenu> {
           //   icon: Icon(Icons.home),
           //   label: 'Home',
           // ),
+
           BottomNavigationBarItem(
             icon: Icon(Icons.wallet),
             label: 'Wallet',
